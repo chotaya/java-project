@@ -1,0 +1,15 @@
+# Maven
+/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code/Cursor
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
